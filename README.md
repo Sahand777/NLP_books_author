@@ -1,6 +1,6 @@
 # NLP_books_author
 This piece of code is designed to download seven books from Gutenberg online library and identify the author of the books after fitting a classification model.
-There are six different python files. For excuting the code, running the main.py is enough.
+There are six different python files. For excuting the code, running the main.py is enough. By running the main, the program asks you to choose the method of feature engineering(1 is Bag of Words, 2 is TF-IDF, 3 is N-Gram, 4 is All, if the user put some other input, it runs all methods)
 ## 1	Introduction
 In this project, the goal is to identify the author of several books by analyzing some words from the original books. Three different Feature selection methods for texts and five different classifying methods are being used.
 The ultimate target is to classify, predict, and compare the methods. 
